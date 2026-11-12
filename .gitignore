@@ -1,0 +1,8 @@
+# 含賓客個資與連結對照，絕對不能進公開 repo
+guests.csv
+guests*.csv
+!guests_sample.csv
+tokens.json
+links.csv
+.claude/
+.DS_Store
